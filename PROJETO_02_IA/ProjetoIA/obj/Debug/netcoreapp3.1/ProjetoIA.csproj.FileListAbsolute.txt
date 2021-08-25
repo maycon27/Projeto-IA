@@ -1,0 +1,101 @@
+C:\Users\Acer\source\repos\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.exe
+C:\Users\Acer\source\repos\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.deps.json
+C:\Users\Acer\source\repos\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.json
+C:\Users\Acer\source\repos\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\Acer\source\repos\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Form1.resources
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\Acer\source\repos\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.genruntimeconfig.cache
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.exe
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.deps.json
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.json
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.dev.json
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Form1.resources
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Properties.Resources.resources
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfo.cs
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\adria\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.genruntimeconfig.cache
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.exe
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.deps.json
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.json
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.dev.json
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csprojAssemblyReference.cache
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Form1.resources
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Properties.Resources.resources
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.GenerateResource.cache
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfoInputs.cache
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfo.cs
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\maycon\Desktop\ProjetoIA\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.genruntimeconfig.cache
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.exe
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.deps.json
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.json
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.dev.json
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.dll
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.pdb
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csprojAssemblyReference.cache
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Properties.Resources.resources
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.GenerateResource.cache
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfoInputs.cache
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfo.cs
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.CoreCompileInputs.cache
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dll
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.pdb
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.genruntimeconfig.cache
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.exe
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.deps.json
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.json
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.dev.json
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csprojAssemblyReference.cache
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Form1.resources
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Properties.Resources.resources
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.GenerateResource.cache
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfoInputs.cache
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfo.cs
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\milaa\Desktop\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.genruntimeconfig.cache
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.sintomasForm.resources
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dadosPessoaisForm.resources
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.GrupoRiscoForm.resources
+E:\Meus Arquivos\UFS\2020.1\IA\PROJETOS\PROJETO 02\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.HomeForm.resources
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.exe
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.deps.json
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.json
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.runtimeconfig.dev.json
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\bin\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.AssemblyReference.cache
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.DadosPessoaisForm.resources
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.GrupoRiscoForm.resources
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.HomeForm.resources
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.Properties.Resources.resources
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.SintomasForm.resources
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.GenerateResource.cache
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfoInputs.cache
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.AssemblyInfo.cs
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.dll
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.pdb
+C:\Users\mayco\OneDrive\Área de Trabalho\Projetos\PROJETO_02_IA\ProjetoIA\obj\Debug\netcoreapp3.1\ProjetoIA.genruntimeconfig.cache
